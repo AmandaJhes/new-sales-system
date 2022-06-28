@@ -25,3 +25,7 @@
 /home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/obj/Debug/net6.0/salessystem.pdb
 /home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/obj/Debug/net6.0/salessystem.genruntimeconfig.cache
 /home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/obj/Debug/net6.0/ref/salessystem.dll
+/home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/anascim/Área de Trabalho/new-sales-system/Api/salessystem/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
